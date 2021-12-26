@@ -1,5 +1,7 @@
 # less_test
 
+Simple NodeJS app to demonstrate issue with Less's handling of grid-column forward slash shorthand.
+
 ## Prequsites
 
 -   NodeJS (tested with 16.13.1 on Windows 10 Pro 64-bit)
